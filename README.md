@@ -101,5 +101,5 @@ Application Open your browser at http://localhost:3000
 
 ### Run backend unit tests
 ```bash
-    php artisan test --env=testing
+    php artisan test
 ```
