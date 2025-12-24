@@ -1,6 +1,6 @@
 ## Working Time Estimation System
 
-**Project Introduction**
+
 A Laravel-based backend with React frontend for managing tasks, time estimates, and work schedules for Project Managers (PM) and Engineers.
 
 **Features**
